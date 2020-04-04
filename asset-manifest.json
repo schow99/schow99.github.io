@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e68f44be.chunk.css",
+    "main.js": "/static/js/main.b3ce92b6.chunk.js",
+    "main.js.map": "/static/js/main.b3ce92b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4427459f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4427459f.js.map",
+    "static/js/2.3e3eb072.chunk.js": "/static/js/2.3e3eb072.chunk.js",
+    "static/js/2.3e3eb072.chunk.js.map": "/static/js/2.3e3eb072.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a5d15573abe77230a06357ccf570e803.js": "/precache-manifest.a5d15573abe77230a06357ccf570e803.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e68f44be.chunk.css.map": "/static/css/main.e68f44be.chunk.css.map",
+    "static/js/2.3e3eb072.chunk.js.LICENSE.txt": "/static/js/2.3e3eb072.chunk.js.LICENSE.txt",
+    "static/media/comsci.PNG": "/static/media/comsci.6744e642.PNG",
+    "static/media/email.png": "/static/media/email.4e2c9c86.png",
+    "static/media/github-icon.png": "/static/media/github-icon.0c768863.png",
+    "static/media/linkedin-icon-transparent.png": "/static/media/linkedin-icon-transparent.a9e169d9.png",
+    "static/media/old-well.jpg": "/static/media/old-well.34abf7f2.jpg",
+    "static/media/profile.PNG": "/static/media/profile.c68c0690.PNG",
+    "static/media/resume.png": "/static/media/resume.fcecf9b9.png",
+    "static/media/sas.png": "/static/media/sas.9ca58d89.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4427459f.js",
+    "static/js/2.3e3eb072.chunk.js",
+    "static/css/main.e68f44be.chunk.css",
+    "static/js/main.b3ce92b6.chunk.js"
+  ]
+}
